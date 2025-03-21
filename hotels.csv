@@ -1,11 +1,11 @@
 id,name,city,capacity,available,price
-134,Atlantis The Royal,Dubai,4,no,100000
+134,Atlantis The Royal,Dubai,4,yes,100000
 188,One&Only One Za'abeel,Dubai,5,yes,40000
-655,Jumeirah Burj Al Arab,Dubai,3,no,32700
-534,"The Lana, Dorchester Collection",,4,no,25000
-296,"Mandarin Oriental Jumeira, Dubai",Dubai,5,no,25000
-234,Palazzo Versace Dubai,Dubai,3,no,21000
-455,"Jumeirah Al Naseem, Madinat Jumeirah",Dubai,4,no,17000
-777,One&Only Royal Mirage Arabian Court,,5,no,15000
+655,Jumeirah Burj Al Arab,Dubai,3,yes,32700
+534,"The Lana, Dorchester Collection",,4,yes,25000
+296,"Mandarin Oriental Jumeira, Dubai",Dubai,5,yes,25000
+234,Palazzo Versace Dubai,Dubai,3,yes,21000
+455,"Jumeirah Al Naseem, Madinat Jumeirah",Dubai,4,yes,17000
+777,One&Only Royal Mirage Arabian Court,,5,yes,15000
 851,Armani Hotel Dubai,Dubai,3,no,11000
 112,Four Seasons Resort Dubai at Jumeirah Beach,Dubai,4,no,9500
